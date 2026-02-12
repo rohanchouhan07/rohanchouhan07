@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rohan Chouhan
 **B.Tech CS Student @ Sage University || Python Developer || Aspiring Data Analyst**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanchouhan07-github-rohanchouhan07&color=gray" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanchouhan07-github-rohanchouhan07&color=gray" alt="rohanchouan07" /> </p>
 
 📧 Let's Connect: rohanchouhan0795@email.com Data Analysis • Python Projects • Tech Talk 😊😊
 ### 🚀 About Me
