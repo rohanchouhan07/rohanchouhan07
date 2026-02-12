@@ -1,6 +1,8 @@
 # 💫 Hi 👋, I'm Rohan Chouhan
 **B.Tech CS Student @ Sage University || Python Developer || Aspiring Data Analyst**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanchouhan07-github-rohanchouhan07&color=gray" /> </p>
+
 📧 Let's Connect: rohanchouhan0795@email.com Data Analysis • Python Projects • Tech Talk 😊😊
 ### 🚀 About Me
 I am a 3rd-year Computer Science student passionate about turning raw data into actionable insights. With a background in Python development and a growing expertise in data visualization, I love solving complex problems through code and logic.
